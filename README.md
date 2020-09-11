@@ -1,6 +1,6 @@
 # Atividade 1 - Programação II
 
-#### NOTA: Essa atividade foi mal elaborada, mas era preciso fazer o mínimo e não se exceder, logo ficou essa porcaria.
+#### NOTA: Essa atividade foi mal elaborada, mas era preciso fazer o mínimo e não se exceder, logo, ficou essa porcaria.
 
 "Olá Alunos de ADS, vamos colocar em prática os conhecimentos adquiridos por você no decorrer da disciplina.
 
