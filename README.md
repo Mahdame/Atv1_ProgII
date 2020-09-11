@@ -1,9 +1,8 @@
-# Atv1_ProgII
-Atividade 1 - Programação II
+# Atividade 1 - Programação II
 
-NOTA: Essa atividade foi mal elaborada, mas era preciso fazer o mínimo e não se exceder, logo ficou essa porcaria.
+#### NOTA: Essa atividade foi mal elaborada, mas era preciso fazer o mínimo e não se exceder, logo ficou essa porcaria.
 
-Olá Alunos de ADS, vamos colocar em prática os conhecimentos adquiridos por você no decorrer da disciplina.
+"Olá Alunos de ADS, vamos colocar em prática os conhecimentos adquiridos por você no decorrer da disciplina.
 
 Para esta Atividade 01, você irá desenvolver um programa na linguagem JAVA, utilizando a IDE NetBeans, para calcular a área de diferentes formas geométricas, como por exemplo: retângulo e triângulo.
 
@@ -21,4 +20,4 @@ Para esta Atividade 01, você irá desenvolver um programa na linguagem JAVA, ut
 Ao terminar a sua atividade, lembre-se de exportar seu projeto no formato .zip e envie o seu código pelo sistema Studeo.
 Para exportar no NetBeans, siga os passos: Arquivo > Exportar Projeto > Para ZIP
 
-Boa atividade.
+Boa atividade."
